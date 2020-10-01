@@ -22,3 +22,9 @@
 
 [04] express 모듈에 static 파일 (css) 추가
 - public\css\style.css 파일을 생성 & server.js에 public\css 폴더를 등록해서 styele.css 파일을 import 하고 있는 모든 html 파일들이 해당 css 파일이 적용되게 함.
+
+[04] ejs 템플릿 사용
+- express & router & ejs & css 까지 매우 기본적인 서버
+
+
+
